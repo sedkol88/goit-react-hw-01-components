@@ -22,6 +22,8 @@
 }
 .transaction_history tr {
   height: 80px;
+  text-transform: capitalize;
+  color: rgb(77, 77, 77);
 }
 
 .evenRow {
